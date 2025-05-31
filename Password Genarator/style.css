@@ -1,0 +1,43 @@
+.container{
+max-width: 700px;
+width: 90%;
+margin: 12%;
+}
+body{
+    background-color: #002339;
+    color: #fff;
+}
+.disply{
+   width: 70%;
+   margin-top: 50px;
+   margin-bottom: 30px;
+   background: #fff;
+   color: #333;
+   display: flex;
+ align-items: center;
+ padding: 26px 20px;
+   justify-content: space-between;
+   border-radius: 20px;
+   margin-top: 10px;
+}
+.disply img{
+    height: 50px;
+    width: 40px;
+}
+.disply input{
+    border: 0;
+    outline: 0;
+    font-size: 24px;
+}
+span{
+    color: green;
+   border-bottom: 4px solid green;
+   padding-bottom:5px;
+}
+button{
+    padding: 10px 35px 10px 35px;
+    border-radius: 5px;
+    font-weight: bolder;
+    font-size: 15px;
+    background-color: rgb(98, 158, 98);
+}
